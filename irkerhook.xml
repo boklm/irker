@@ -266,7 +266,7 @@ is an example of what such a file might look like:</para>
 <programlisting>
 # irkerhook variable settings for the irker project
 project = irker
-channels  = irc://chat.freenode/irker,irc://chat.freenode/commits
+channels  = irc://chat.freenode.net/irker,irc://chat.freenode.net/commits
 tcp = false
 </programlisting>
 
